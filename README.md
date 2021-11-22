@@ -1,10 +1,23 @@
-# 05-day-planner
 
-HOW IT WORKS:
-The page has 9 rows for each corresponding hour in a 9:00-5:00 hours stretch. There are textareas in each row that allow the user
-to input whatever they so choose. They can then save their inputs by clicking the calendar button to the right of the textarea. This
-will allow the user to save their inputs to local storage and retain their inputs even if they leave the page.
+# Day Planner
 
-The current date is displayed at the top of the page and is maintained by moment.js. Additionally textareas will change color depending
-on if the corresponding hour is past, present, or future. This is also maintained by moment.js.
 
+## Description
+[![The Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org)
+
+Lets you write down hourly schedule that saves the data on local storage so you can close the tab and all info will still stay after reloading page.
+## Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
+## Installation
+run through Git Deployed page
+## Usage
+Super simple planner. Just type what you want to do at a certain time and it will stay there till you delete it.
+## License
+The project uses the [The Unlicense](http://unlicense.org) license.
+## Contact
+Link to my github: [ianbrinkerhoff09](https://github.com/ianbrinkerhoff09)
+
+Feel free to contact me via email at [ian.brinkerhoff@gmail.com](mailto:ian.brinkerhoff@gmail.com)
