@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-color: darkgrey;
 }
   
 textarea {
@@ -12,7 +13,6 @@ textarea {
     border-left: 1px solid black;
     border-bottom: 1px solid black; 
     padding: 10px;
-    line-height: 120%;
 }
 
 .first {
@@ -27,7 +27,7 @@ textarea {
     border-bottom: 10px solid black;
 }
 
-#currentDay {
+#today {
     font-weight: bolder;
     font-size: 32px;
 }
@@ -71,13 +71,12 @@ textarea {
     font-size: 24px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06AED5;
-    color: white;
+    background-color: #00acd3;
+    color: rgb(98, 0, 255);
 }
   
 .saveBtn:hover {
     font-size: 32px;
-    background-color: rgb(16, 199, 240);
     transition: all .3s ease-in-out;
 }
   
