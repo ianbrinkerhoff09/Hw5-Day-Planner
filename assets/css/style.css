@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-color: darkgrey;
+    background-color: rgb(255, 255, 255);
 }
   
 textarea {
@@ -71,7 +71,7 @@ textarea {
     font-size: 24px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #00acd3;
+    background-color: #00d0ff;
     color: rgb(98, 0, 255);
 }
   
